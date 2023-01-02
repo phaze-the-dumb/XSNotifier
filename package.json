@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@types/node": "^18.11.18"
+  },
+  "name": "xsnotifier",
+  "version": "0.5.0",
+  "description": "Send notifications to XSOverlay with javascript/typescript",
+  "main": "dist/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phaze#6193",
+  "license": "ISC"
+}
