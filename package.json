@@ -3,7 +3,7 @@
     "@types/node": "^18.11.18"
   },
   "name": "xsnotifier",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "Send notifications to XSOverlay with javascript/typescript",
   "main": "dist/app.js",
   "devDependencies": {},
